@@ -15,7 +15,7 @@
 ![My Skills](https://skillicons.dev/icons?i=flutter,django)
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ChiragBhrdwaj) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chiragbhrdwaj) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/chiragbhrdwaj)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.linkedin.com/in/sanatan-mishra-735b81262/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chiragbhrdwaj) [![My Skills](https://skillicons.dev/icons?i=linkedin)]
 
 
 
