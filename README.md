@@ -15,7 +15,7 @@
 ![My Skills](https://skillicons.dev/icons?i=flutter,django)
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/SanatanMis44597) [![My Skills] [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanatan-mishra-735b81262/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/SanatanMis44597) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanatan-mishra-735b81262/)
 
 
 
