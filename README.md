@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning : Javascript & Kotlin
 - 💞️ I’m looking to collaborate on : Website Development
 - 😄 Pronouns : he/him
-- ⚡ Fun fact : I create effective & optimized code
 
 ## Languages:
 
